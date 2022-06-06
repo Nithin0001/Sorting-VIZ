@@ -1,7 +1,7 @@
 # Sorting-VIZ
 An sorting visualizer made in python & Tkinter, it is a GUI application that covers all the basic sorting algorithms.
 
-python
+<h1>python
 Tkinter
 
 Algorithms
