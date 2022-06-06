@@ -19,5 +19,9 @@ Quick Sort <br>
 
 
 
-https://user-images.githubusercontent.com/80560020/172168532-6f08f721-c137-4833-b610-34ffca2121e5.mov
+
+https://user-images.githubusercontent.com/80560020/172169135-c57ab2a0-5828-45f1-9e4a-93084b468153.mov
+
+
+
 
