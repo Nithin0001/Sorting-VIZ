@@ -6,14 +6,14 @@ Tkinter
 
 Algorithms
 
-Bubble Sort
-Insertion Sort
-Radix Sort
-Shell Sort
-Selection Sort
-Heap Sort
-Merge Sort
-Quick Sort
+Bubble Sort <br>
+Insertion Sort <br>
+Radix Sort <br>
+Shell Sort <br>
+Selection Sort <br>
+Heap Sort <br>
+Merge Sort <br>
+Quick Sort <br>
 
 <img width="1279" alt="Screenshot 2022-06-06 at 6 42 27 PM" src="https://user-images.githubusercontent.com/80560020/172168050-d81123d6-0924-4615-8e7d-2ce72b632317.png">
 
